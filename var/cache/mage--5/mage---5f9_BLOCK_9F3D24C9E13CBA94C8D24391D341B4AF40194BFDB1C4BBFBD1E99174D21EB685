@@ -1,0 +1,6 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1717851369;s:6:"expire";i:1717854969;s:4:"tags";s:81:"5f9_BLOCK_HTML,5f9_CAT_C,5f9_CAT_C_3,5f9_CAT_C_5,5f9_CAT_C_6,5f9_CAT_C_7,5f9_MAGE";}
+
+<nav class="navigation" data-action="navigation">
+    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+        <li  class="level0 nav-1 category-item first level-top"><a href="http://mage2rock.magento.com/snowboards.html"  class="level-top" ><span>Snowboards </span></a></li><li  class="level0 nav-2 category-item level-top"><a href="http://mage2rock.magento.com/boots.html"  class="level-top" ><span>Boots</span></a></li><li  class="level0 nav-3 category-item level-top"><a href="http://mage2rock.magento.com/helmets.html"  class="level-top" ><span>Helmets</span></a></li><li  class="level0 nav-4 category-item last level-top"><a href="http://mage2rock.magento.com/accessories.html"  class="level-top" ><span>Accessories</span></a></li>            </ul>
+</nav>
